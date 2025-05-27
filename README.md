@@ -27,21 +27,10 @@ Or contact: **yaepiii@126.com**
 
 ## 📷 Visual Results
 
-<table>
-  <tr>
-    <td><img src="web/resources/table1.png" width="100%"/></td>
-    <td><img src="web/resources/table2.png" width="100%"/></td>
-    <td><img src="web/resources/table4.png" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center">KITTI Sequence – Ghost Trail Removal</td>
-    <td align="center">Cross-sensor Generalization (HeLiMOS) using Ground truth as poses inoput</td>
-    <td align="center">Cross-sensor Generalization (HeLiMOS) using KISS-ICP as poses inoput</td>
-  </tr>
-  <img src="web/resources/figure7.png" width="100%"/>
-  <img src="web/resources/figure8.png" width="100%"/>
-  <img src="web/resources/table6.png" width="100%"/>
-</table>
+<img src="web/resources/table2.png" width="100%"/>
+<img src="web/resources/figure7.png" width="100%"/>
+<img src="web/resources/figure8.png" width="100%"/>
+<img src="web/resources/table6.png" width="100%"/>
 
 ---
 
