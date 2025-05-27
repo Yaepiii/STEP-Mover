@@ -2,6 +2,10 @@
 
 STEP-Mover is a dynamic object removal framework designed to efficiently filter dynamic points from LiDAR point cloud maps, preserving high-fidelity static structures for precise localization and navigation. The method employs a **coarse-to-fine-to-refine** strategy with voxel-based multi-scale descriptors and integrates static point retrieval to handle blind spots.
 
+## 🎥 Video
+
+[![Watch the demo](web/resources/figure2.png)](web/resources/video.mp4)
+
 ## 🚫 Open Source Disclaimer
 
 Due to third-party agreements and proprietary dependencies, this project is **not open-sourced at this time**.  
