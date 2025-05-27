@@ -4,7 +4,7 @@ STEP-Mover is a dynamic object removal framework designed to efficiently filter 
 
 ## 🎥 Video
 
-[![Watch the demo](web/resources/figure2.png)](web/resources/video.mp4)
+![Video](web/resources/figure2.png)](web/resources/video.gif)
 
 ## 🚫 Open Source Disclaimer
 
