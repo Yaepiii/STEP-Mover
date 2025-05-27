@@ -4,7 +4,9 @@ STEP-Mover is a dynamic object removal framework designed to efficiently filter 
 
 ## 🎥 Video
 
-![Video](web/resources/figure2.png)](web/resources/video.gif)
+<p align="center">
+  <img src="web/resources/video.gif" alt="STEP-Mover Demo" width="800"/>
+</p>
 
 ## 🚫 Open Source Disclaimer
 
@@ -15,6 +17,8 @@ We appreciate your interest and are actively exploring future possibilities for 
 Or contact: **yaepiii@126.com**
 
 ## 🌟 Highlights
+
+![Framework](web/resources/figure2.png)
 
 - **Multi-scale Voxel Descriptors**: Combine height, occupancy, and statistical distributions to identify dynamic regions.
 - **Coarse-to-Fine Filtering Strategy**: Eliminates ghost trails while enabling static point recovery.
