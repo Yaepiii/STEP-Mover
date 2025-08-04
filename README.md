@@ -8,13 +8,11 @@ STEP-Mover is a dynamic object removal framework designed to efficiently filter 
   <img src="web/resources/video.gif" alt="STEP-Mover Demo" width="800"/>
 </p>
 
-## 🚫 Open Source Disclaimer
+## ⏰ Open Source
 
-Due to third-party agreements and proprietary dependencies, this project is **not open-sourced at this time**.  
-We appreciate your interest and are actively exploring future possibilities for community sharing.
+The code is currently being organized and will be released under an open-source license upon acceptance of the paper.
 
 👉 For algorithm details, demos, or collaboration inquiries, please visit: [Our Website](https://yaepiii.github.io/STEP-Mover/)  
-Or contact: **yaepiii@126.com**
 
 ## 🌟 Highlights
 
