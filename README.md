@@ -1,4 +1,4 @@
-# STEP-Mover: Stratified and Tiered Elimination Process for Efficient LiDAR Dynamic Removal
+# STEP-Mover: Stratified and Tiered Multi-scale Descriptor for Efficient Static Pointcloud Environment Measurement
 
 STEP-Mover is a dynamic object removal framework designed to efficiently filter dynamic points from LiDAR point cloud maps, preserving high-fidelity static structures for precise localization and navigation. The method employs a **coarse-to-fine-to-refine** strategy with voxel-based multi-scale descriptors and integrates static point retrieval to handle blind spots.
 
